@@ -183,6 +183,7 @@ RLE reduces storage for repetitive descriptions.
 12. Conclusion
 
 RoyalChain successfully integrates several core Data Structures and Algorithms into a unified copyright management system. The project demonstrates efficient storage, retrieval, processing, sorting, routing, and compression techniques while satisfying all requirements of the Intellectual Property Rights Ledger case study.
+
 Future Enhancements :
 Full License Object Storage in B-Tree
 Graph Visualization

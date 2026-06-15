@@ -143,6 +143,7 @@ Output -
 Compressed : 5A3B2C
 
 10. Screenshots
+    
     Main Menu
     <img width="404" height="288" alt="Screenshot 2026-06-15 at 13 30 11" src="https://github.com/user-attachments/assets/d92e6331-96dc-4769-af7a-81a4bf6d9de1" />
 

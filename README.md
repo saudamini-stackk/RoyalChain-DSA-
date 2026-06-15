@@ -4,6 +4,7 @@ RoyalChain Copyright Management System
    
 RoyalChain – Intellectual Property Rights Ledger
 A Data Structures and Algorithms (DSA) based copyright management system developed in C++ for managing digital licenses, royalty distribution, ownership verification, transaction processing, and storage optimization.
+
 2. Problem Statement
 
 RoyalChain is a digital copyright tracking system that registers media licenses, verifies ownership transfers, and manages royalty payment distribution among publishers, distributors, and artists.
